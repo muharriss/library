@@ -1,0 +1,40 @@
+{
+    "haris": {
+        "password": "123",
+        "pinjaman": [
+            {
+                "judul": "laba-laba",
+                "pengarang": "gus tf sakai",
+                "tgl_peminjaman": "07/12/2023",
+                "deadline": "21/12/2023"
+            }
+        ],
+        "sanksi_sampai": "09/12/2023"
+    },
+    "admin": {
+        "password": "123",
+        "pinjaman": []
+    },
+    "kipli": {
+        "password": "123",
+        "sebagai": "mahasiswa",
+        "pinjaman": []
+    },
+    "asep": {
+        "password": "123",
+        "sebagai": "mahasiswa",
+        "pinjaman": [
+            {
+                "judul": "algoritma",
+                "pengarang": "edhy sutanta",
+                "tgl_peminjaman": "04/12/2023",
+                "deadline": "18/12/2023"
+            }
+        ]
+    },
+    "ucup": {
+        "password": "123",
+        "sebagai": "mahasiswa",
+        "pinjaman": []
+    }
+}
